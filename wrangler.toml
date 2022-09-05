@@ -1,4 +1,4 @@
-name = "random-do"
+name = "downloads-do"
 account_id = "b6641681fe423910342b9ffa1364c76d"
 route = { pattern = "*/*", zone_id = "4d73fc80e8ba34643f7a1c85dbf26fc9" }
 main = "worker.js"
